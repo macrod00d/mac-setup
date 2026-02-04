@@ -1,2 +1,11 @@
-mac_defaults.txt
-current.txt
+# Temporary files
+*.log
+brew_install_log.txt
+
+./old/current.txt
+./old/*.conf
+./old/*.txt
+.old/current.txt
+.old/vanilla.txt
+.old/mac_settings.conf
+.old/user_settings_clean.conf
